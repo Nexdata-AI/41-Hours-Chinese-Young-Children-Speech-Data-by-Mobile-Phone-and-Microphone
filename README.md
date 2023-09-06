@@ -4,7 +4,8 @@
 ## Description
 The data were recorded by 797 Chinese children aged 3 to 5, of whom 39% were children aged 5. The recording content conforms to the characteristics of children, mainly storybooks, children's songs, spoken language. Around 120 sentences for each speaker. It is simultaneously recorded by hi-fi microphone and cellphone. The vaild data are 41.8 hours. Texts are manually transcribed with high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3xSQeqi
+For more details, please refer to the link: https://www.nexdata.ai/datasets/76?source=Github
+
 
 ## Format
 16kHz/22.05kHz/44.1kHz, 16bit, uncompressed wav, mono channel
